@@ -123,6 +123,12 @@ permissions:
 
 ## License
 
+
+
+https://github.com/actions/setup-python?utm_source=chatgpt.com
+
+fork it
+
 The scripts and documentation in this project are released under the [MIT License](LICENSE).
 
 ## Contributions
