@@ -5,6 +5,7 @@ author: "GitHub"
 inputs:
   python-version:
     description: "Version range or exact version of Python or PyPy to use, using SemVer's version range syntax. Reads from .python-version if unset."
+    # updated for v1.0.1
   python-version-file:
     description: "File containing the Python version to use. Example: .python-version"
   cache:
